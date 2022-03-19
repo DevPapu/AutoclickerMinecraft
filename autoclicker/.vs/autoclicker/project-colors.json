@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dde2bce6-e63f-4de8-9cd6-1d58e874b381": {
+      "ProjectGuid": "dde2bce6-e63f-4de8-9cd6-1d58e874b381",
+      "DisplayName": "autoclicker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
